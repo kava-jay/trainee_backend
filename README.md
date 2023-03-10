@@ -1,6 +1,6 @@
 ## Project Name - Note App (backend Part)
 
-## Project Trainee_backend Techstack - Node Js
+## Project Trainee_backend Techstack - `Node Js`
 
 ### `npm start`
 
